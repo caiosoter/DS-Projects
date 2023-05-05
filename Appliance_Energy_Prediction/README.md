@@ -34,5 +34,5 @@ The Dataset(experimental) was created to study appliances consumption in a low e
   - rv2: Random variable 2 (nondimensional).
   
 
-# Refences:
+# References:
 https://www.kaggle.com/datasets/loveall/appliances-energy-prediction
