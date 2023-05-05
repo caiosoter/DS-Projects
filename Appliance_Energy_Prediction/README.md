@@ -3,17 +3,36 @@
 The Dataset(experimental) was created to study appliances consumption in a low energy building. The dataset was built with data measured every 10 minutes and has a set of 4.5 months of measurements.
 
 # Dictionary (Columns):
-  1) date: Date(Year-Month-Day) and time(Hour:Minutes:Seconds) of the measurements.
-  2) Appliances:
-  3) lights:
-  4) T1:
-  5) RH_1:
-  6) T2:
-  7) TH_2:
-  8) T3:
-  9) RH_3:
-  10) T4:
-
+  - date: Date(Year-Month-Day) and time(Hour:Minutes:Seconds) of the measurements.
+  - Appliances: Energy used (Wh).
+  - lights: Energy use in light fixtures (Wh).
+  - T1: Temperature in kitchen area (°C).
+  - RH_1: Humidity in kitchen area (%).
+  - T2: Temperature in living room area (°C).
+  - TH_2: Humidity in living room area (%).
+  - T3: Temperature in laundry area (°C).
+  - RH_3: Humidity in laundry area (%).
+  - T4: Temperature in office room (°C).
+  - RH_4: Humidity in office room (%). 
+  - T5: Temperature in bathroom (°C).
+  - RH_5: Humidity in bathroom (%).
+  - T6: Temperature outside the building, measured from the north side (°C).
+  - RH_6: Humidity outside the building, measured from the north side (%).
+  - T7: Temperature in ironing room (°C).
+  - RH_7: Humidity in ironing room (%).
+  - T8: Temperature in teenager room 2 (°C)
+  - RH_8: Humidity in teenager room 2 (%).
+  - T9: Temperature in parents room (°C).
+  - RH_9: Humidity in parents room (%).
+  - To: Temperature outside, measured from Chievres weather station (°C).
+  - Pressure: Measured from Chievres weather station (mm Hg).
+  - RH_out: Humidity outside, measured from Chievres weather station (%).
+  - Wind speed: Measured from Chievres weather station (m/s).
+  - Visibility: Measured from Chievres weather station (km).
+  - Tdewpoint: Measured from Chievres weather station (Â°C)
+  - rv1: Random variable 1 (nondimensional).
+  - rv2: Random variable 2 (nondimensional).
+  
 
 # Refences:
 https://www.kaggle.com/datasets/loveall/appliances-energy-prediction
