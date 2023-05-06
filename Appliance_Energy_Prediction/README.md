@@ -24,7 +24,7 @@ The Dataset(experimental) was created to study appliances consumption in a low e
   - RH_8: Humidity in teenager room 2 (%).
   - T9: Temperature in parents room (°C).
   - RH_9: Humidity in parents room (%).
-  - To: Temperature outside, measured from Chievres weather station (°C).
+  - T_out: Temperature outside, measured from Chievres weather station (°C).
   - Pressure: Measured from Chievres weather station (mm Hg).
   - RH_out: Humidity outside, measured from Chievres weather station (%).
   - Wind speed: Measured from Chievres weather station (m/s).
