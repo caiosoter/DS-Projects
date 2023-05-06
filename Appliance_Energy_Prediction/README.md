@@ -36,3 +36,5 @@ The Dataset(experimental) was created to study appliances consumption in a low e
 
 # References:
 https://www.kaggle.com/datasets/loveall/appliances-energy-prediction
+
+https://towardsdatascience.com/a-practical-introduction-to-the-shapiro-wilk-test-for-normality-5675e52cee8f
