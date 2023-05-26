@@ -40,3 +40,5 @@ The Dataset(experimental) was created to study appliances consumption in a low e
 - https://towardsdatascience.com/6-ways-to-test-for-a-normal-distribution-which-one-to-use-9dcf47d8fa93
 - https://towardsdatascience.com/bayesian-optimization-concept-explained-in-layman-terms-1d2bcdeaf12f
 - https://xgboost.readthedocs.io/en/stable/parameter.html
+- https://towardsdatascience.com/an-interactive-guide-to-hypothesis-testing-in-python-979f4d62d85
+- https://rhydhamgupta.medium.com/p-value-explained-clearly-regression-pdf-discrete-45c30b5dc813
