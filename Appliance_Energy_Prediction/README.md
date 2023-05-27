@@ -1,6 +1,6 @@
 ![](https://greenheart.org/wp-content/uploads/light-1030988_1920-650x433.jpg)
 # Appliance Energy Prediction:
-The Dataset (experimental) was created to study appliances consumption in a low energy building. Furthermore, the dataset was build with data points collected every 10 minutes for roughly 4.5 mounts. To conclude, it is important to say that this project is in the scope of Supervised Regression problems.
+The Dataset (experimental) was created to study appliances consumption in a low energy building. Furthermore, the dataset was build with energy data points collected every 10 minutes and the humidity and temperature data were averaged for 10 minutes periods. The dataset is at 10 minutes for roughly 4.5 mounts. To conclude, it is important to say that this project is in the scope of Supervised Regression problems.
 
 # Dictionary (Columns):
   - date: Date(Year-Month-Day) and time(Hour:Minutes:Seconds) of the measurements.
