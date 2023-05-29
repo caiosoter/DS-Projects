@@ -13,5 +13,5 @@ Nowadays, the amount of energy consumed has sharply increased. As a result, the 
 - SystemProduction (Target)
 
 # References:
-- [Dataset](https://www.kaggle.com/datasets/pythonafroz/solar-powe-generation-data)
-- [Image link](https://www.cronicanorte.es/wp-content/uploads/2017/01/energia-solar-espa%C3%B1a-1024-768x432.jpg)
+- https://www.kaggle.com/datasets/pythonafroz/solar-powe-generation-data
+- https://www.cronicanorte.es/wp-content/uploads/2017/01/energia-solar-espa%C3%B1a-1024-768x432.jpg (Image Link)
