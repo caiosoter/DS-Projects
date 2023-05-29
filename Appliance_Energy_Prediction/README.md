@@ -1,4 +1,4 @@
-![](https://greenheart.org/wp-content/uploads/light-1030988_1920-650x433.jpg)
+![](https://c0.wallpaperflare.com/preview/61/600/874/energy-inspiration-ideas-planet-waters.jpg)
 # Appliance Energy Prediction:
 The Dataset (experimental) was created to study appliances consumption in a low energy building. Furthermore, the dataset was build with energy data points collected every 10 minutes and the humidity and temperature data were averaged for 10 minutes periods. The dataset is at 10 minutes for roughly 4.5 mounts. To conclude, it is important to say that this project is in the scope of Supervised Regression problems and the dataset can be found in the first link in the references.
 
@@ -36,6 +36,7 @@ The Dataset (experimental) was created to study appliances consumption in a low 
 
 # References:
 - https://www.kaggle.com/datasets/loveall/appliances-energy-prediction
+- https://c0.wallpaperflare.com/preview/61/600/874/energy-inspiration-ideas-planet-waters.jpg (Image Link)
 - https://towardsdatascience.com/a-practical-introduction-to-the-shapiro-wilk-test-for-normality-5675e52cee8f
 - https://towardsdatascience.com/6-ways-to-test-for-a-normal-distribution-which-one-to-use-9dcf47d8fa93
 - https://towardsdatascience.com/bayesian-optimization-concept-explained-in-layman-terms-1d2bcdeaf12f
