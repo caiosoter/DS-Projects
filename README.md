@@ -7,4 +7,4 @@ My repository for projects that I have accomplished during my jouney to become a
 - Projects can be found on the links below:
 
    1) [Appliance Energy Prediction](https://github.com/caiosoter/DS-Projects/tree/main/Appliance_Energy_Prediction)
-   2) [Solar Power Generation prediction](https://github.com/caiosoter/DS-Projects/tree/main/Solar_Power_Generation_Prediction)
+   2) [Solar Power Generation Prediction](https://github.com/caiosoter/DS-Projects/tree/main/Solar_Power_Generation_Prediction)
