@@ -15,3 +15,6 @@ Nowadays, the amount of energy consumed has sharply increased. As a result, the 
 # References:
 - https://www.kaggle.com/datasets/pythonafroz/solar-powe-generation-data
 - https://www.cronicanorte.es/wp-content/uploads/2017/01/energia-solar-espa%C3%B1a-1024-768x432.jpg (Image Link)
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6350423/
+- https://machinelearningmastery.com/a-gentle-introduction-to-normality-tests-in-python/
+- https://www.researchgate.net/post/How-do-we-know-which-test-to-apply-for-testing-normality
