@@ -18,3 +18,5 @@ Nowadays, the amount of energy consumed has sharply increased. As a result, the 
 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6350423/
 - https://machinelearningmastery.com/a-gentle-introduction-to-normality-tests-in-python/
 - https://www.researchgate.net/post/How-do-we-know-which-test-to-apply-for-testing-normality
+- https://towardsdatascience.com/scale-standardize-or-normalize-with-scikit-learn-6ccc7d176a02
+- https://machinelearningmastery.com/standardscaler-and-minmaxscaler-transforms-in-python/?unapproved=692893&moderation-hash=1103f3962e6d3e887e442d79fc5f5185#comment-692893
