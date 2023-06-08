@@ -1,7 +1,7 @@
 ![](https://cdn.pixabay.com/photo/2020/11/07/10/25/machine-learning-5720531_1280.png)
 
 # Data Science Projects
-My repository for projects that I have accomplished during my jouney to become a Data Scientist. Most of them will be related to energy because of my background and also because I have a feeling that humans could solve many important problems regarding energy using data and Machine Learning, thus, solving these types of problems will bring great impact to society. Although my background is in Electrical Engineering, I will be exploring different subjects during my career as a Data Scientist as well.
+My repository for projects that I have accomplished during my journey to become a Data Scientist. Most of them will be related to energy because of my background and also because I have a feeling that humans could solve many important problems regarding energy using data and Machine Learning. Thus, solving these types of problems will bring a great impact to society. Although my background is in Electrical Engineering, I will be exploring different subjects during my career as a Data Scientist as well.
 
 - Projects can be found on the links below:
 
