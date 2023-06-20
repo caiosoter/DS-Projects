@@ -2,6 +2,7 @@
 ![](https://images.rawpixel.com/image_800/cHJpdmF0ZS9zdGF0aWMvaW1hZ2VzL3dlYnNpdGUvMjAyMy0wNC93azEwMjc4MDUxMS1pbWFnZS5qcGc.jpg)
 
 # Asteroid Hazard Classification
+The objective of this project is to employ various types of asteroid information to classify them as either hazardous or non-hazardous. The data, obtained from Kaggle, is meticulously curated by the Jet Propulsion Laboratory (JPL) of the California Institute of Technology, an esteemed institution operating under the auspices of NASA. The collected data will be utilized to train and apply machine learning algorithms specifically designed for classification purposes.
 
 # Dictionary (Columns)
 - SPK-ID: Object primary SPK-ID.
@@ -10,7 +11,7 @@
 - pdes: Object primary designation.
 - name: Object IAU name.
 - NEO: Near-Earth Object (NEO) flag.
-- PHA: Potentially Hazardous Asteroid (PHA) flag.
+- PHA: Potentially Hazardous Asteroid (PHA) flag. (Target)
 - H: Absolute magnitude parameter.
 - Diameter: object diameter (from equivalent sphere) km Unit.
 - Albedo: Geometric albedo.
