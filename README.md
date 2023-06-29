@@ -7,7 +7,7 @@ My repository for projects that I have accomplished during my journey to become 
 
    1) [Appliance Energy Prediction](https://github.com/caiosoter/DS-Projects/tree/main/Appliance_Energy_Prediction)
    2) [Solar Power Generation Prediction](https://github.com/caiosoter/DS-Projects/tree/main/Solar_Power_Generation_Prediction)
-   3) [Asteroid Hazard Classification](https://github.com/caiosoter/DS-Projects/tree/main/Asteroid_Classification)
+   3) [Asteroid Hazard Classification (In construction)](https://github.com/caiosoter/DS-Projects/tree/main/Asteroid_Classification)
 
 
 # References
