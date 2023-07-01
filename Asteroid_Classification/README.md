@@ -10,6 +10,7 @@ The objective of this project is to employ various types of asteroid information
 - Object fullname: Object full name/designation.
 - pdes: Object primary designation.
 - name: Object IAU name.
+- class: Orbit Class.
 - NEO: Near-Earth Object (NEO) flag.
 - PHA: Potentially Hazardous Asteroid (PHA) flag. (Target)
 - H: Absolute magnitude parameter.
@@ -25,6 +26,17 @@ The objective of this project is to employ various types of asteroid information
 - i: inclination; angle with respect to x-y ecliptic plane.
 - tp: Time of perihelion passage TDB Unit.
 - moid_ld: Earth Minimum Orbit Intersection Distance au Unit.
+- sigma_e: Eccentricity (1 - sigma uncertainty).
+- sigma_a: Semi-major axis (1 - sigma uncertainty) (au).
+- sigma_q: Perihelion distance (1 - sigma uncertainty) (au).
+- sigma_i: Inclination (1 - sigma uncertainty) (au).
+- sigma_om: Long. of the asc. node (1 - sigma uncertainty) (deg). 
+- sigma_w: Augment of perihelion (1 - sigma uncertainty) (deg).
+- sigma_ma: Mean anomaly (1 - sigma uncertainty) (deg).
+- sigma_ad: Aphelion distance (1 - sigma uncertainty) (au).
+- sigma_n: Mean motion (1 - sigma uncertainty) (deg/d).
+- sigma_tp: Time of peri. passage (1 - sigma uncertainty) (au).
+- sigma_per: Sideral orbital period (1 - sigma uncertainty) (d).
 
 # References
 - [Asteroid-dataset](https://www.kaggle.com/datasets/sakhawat18/asteroid-dataset)
