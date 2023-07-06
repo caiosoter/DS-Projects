@@ -18,7 +18,9 @@ The objective of this project is to employ various types of asteroid information
 - Albedo: Geometric albedo.
 - Diameter_sigma: 1-sigma uncertainty in object diameter (km).
 - Orbit_id: Orbit solution ID.
-- Epoch: Epoch of osculation in modified Julian day form.
+- Epoch: Epoch of osculation in Julian day form (TDB).
+- Epoch_mjd: Epoch of osculation in modified Julian day form (TDB).
+- Epoch_cal: Epoch of osculation in calendar date/time form (TDB).
 - Equinox: Equinox of reference frame.
 - e: Eccentricity.
 - a: Semi-major axis (au).
