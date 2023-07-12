@@ -32,7 +32,7 @@ The objective of this project is to employ various types of asteroid information
 - ad: Aphelion distance (au).
 - n: Mean Motion (deg/au).
 - tp: Time of perihelion passage (TDB).
-- tp_cal: Time of perihelion passage (TDB) (Apparently, calibrated).
+- tp_cal: Time of perihelion passage (Apparently, calibrated) (TDB).
 - per: Sideral Orbital Period (d).
 - per_y: Sideral Orbital Period (years).
 - moid: Earth Minimum Orbit Intersection Distance (au).
