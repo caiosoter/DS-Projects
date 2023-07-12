@@ -54,3 +54,6 @@ The objective of this project is to employ various types of asteroid information
 - https://git-lfs.com/
 - https://towardsdatascience.com/data-cleaning-with-python-using-pandas-library-c6f4a68ea8eb
 - https://www.oxfordreference.com/display/10.1093/oi/authority.20110810105606956;jsessionid=A2FBB8776E86C44F3E3A1144DABF8ACD#:~:text=The%20date%20and%20time%20at,its%20closest%20to%20the%20Sun.
+- https://medium.com/the-owl/parametric-and-non-parametric-tests-for-comparing-two-or-more-groups-part-1-e24cbbbe4321
+- https://towardsdatascience.com/anova-test-with-python-cfbf4013328b
+- https://en.wikipedia.org/wiki/Point-biserial_correlation_coefficient
