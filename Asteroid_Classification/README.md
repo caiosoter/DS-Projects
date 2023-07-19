@@ -14,7 +14,7 @@ The objective of this project is to employ various types of asteroid information
 - NEO: Near-Earth Object (NEO) flag.
 - PHA: Potentially Hazardous Asteroid (PHA) flag. (Target)
 - H: Absolute magnitude parameter.
-- Diameter: object diameter from equivalent sphere (km).
+- diameter: object diameter from equivalent sphere (km).
 - Albedo: Geometric albedo.
 - Diameter_sigma: 1-sigma uncertainty in object diameter (km).
 - Orbit_id: Orbit solution ID.
