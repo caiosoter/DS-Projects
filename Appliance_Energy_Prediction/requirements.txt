@@ -29,6 +29,7 @@ numpy==1.20.3
 packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1681337016113/work
 pandas==2.0.1
 parso @ file:///home/conda/feedstock_root/build_artifacts/parso_1638334955874/work
+patsy==0.5.3
 pickleshare @ file:///home/conda/feedstock_root/build_artifacts/pickleshare_1602536217715/work
 Pillow==9.5.0
 platformdirs @ file:///home/conda/feedstock_root/build_artifacts/platformdirs_1682644429438/work
@@ -51,6 +52,7 @@ scipy==1.10.1
 seaborn==0.12.2
 six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
 stack-data @ file:///home/conda/feedstock_root/build_artifacts/stack_data_1669632077133/work
+statsmodels==0.14.0
 tenacity==8.2.2
 threadpoolctl==3.1.0
 tornado @ file:///D:/bld/tornado_1656937934674/work
