@@ -13,6 +13,5 @@ My repository for projects that I have accomplished during my journey to become 
 
 # References
 - https://cdn.pixabay.com/photo/2020/11/07/10/25/machine-learning-5720531_1280.png (Image Link)
-- https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21
-- https://machinelearningmastery.com/cnn-models-for-human-activity-recognition-time-series-classification/
+
 

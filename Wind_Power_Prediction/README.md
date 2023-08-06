@@ -10,3 +10,4 @@ Wind energy is the energy of the wind transformed into useful energy through win
 # References
 - [kaggle dataset](https://www.kaggle.com/datasets/l3llff/wind-power)
 - https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21
+- https://machinelearningmastery.com/cnn-models-for-human-activity-recognition-time-series-classification/
