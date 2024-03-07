@@ -1,7 +1,6 @@
 ![](https://live.staticflickr.com/5009/5277522498_7646c3b586_z.jpg)
 
 # Energy Efficiency
-
 Ths project is based on ... dataset.
 
 # Dictionary (Columns)
