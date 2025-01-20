@@ -11,6 +11,7 @@ My repository for projects that I have accomplished during my journey to become 
    4) [Wind power Forecasting](https://github.com/caiosoter/DS-Projects/tree/main/Wind%20Power%20Prediciton)
    5) [Energy Efficiency](https://github.com/caiosoter/DS-Projects/tree/main/Energy_Efficiency)
    6) [Book Advisor - book recommendation system](https://github.com/caiosoter/Book_Advisor)
+   7) [Credit Analysis](https://github.com/caiosoter/DS-Projects/tree/main/credit_analysis)
 
 
 # References
