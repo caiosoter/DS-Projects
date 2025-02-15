@@ -41,7 +41,6 @@ The main objective of this project was to develop a machine learning model capab
 
 # References:
 - [Dataset](https://www.kaggle.com/datasets/loveall/appliances-energy-prediction)
-- [Image link](https://c0.wallpaperflare.com/preview/61/600/874/energy-inspiration-ideas-planet-waters.jpg)
 - https://towardsdatascience.com/a-practical-introduction-to-the-shapiro-wilk-test-for-normality-5675e52cee8f
 - https://towardsdatascience.com/6-ways-to-test-for-a-normal-distribution-which-one-to-use-9dcf47d8fa93
 - https://towardsdatascience.com/bayesian-optimization-concept-explained-in-layman-terms-1d2bcdeaf12f
