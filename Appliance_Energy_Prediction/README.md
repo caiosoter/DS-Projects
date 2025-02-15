@@ -4,7 +4,7 @@
 
 ## Problem Summary
 
-The business problem that motivated this project was the need to predict the energy consumption of appliances in low-energy buildings. This prediction is crucial to optimize energy use, reduce costs, and contribute to environmental sustainability.
+The business problem that motivated this project was the need to predict the energy consumption of appliances in low-energy buildings. This prediction is crucial to optimize energy use, reduce costs, and contribute to environmental sustainability. If you would like to seek to uderstand more about the analysis and the results I encourage you to go through the [Notebook](https://github.com/caiosoter/DS-Projects/blob/main/Appliance_Energy_Prediction/Appliance_energy_prediction.ipynb).
 
 ## Project Objective
 
