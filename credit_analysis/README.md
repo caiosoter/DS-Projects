@@ -12,13 +12,13 @@ The main objective of this project is to develop a credit scoring model capable 
 
 ## Skills and Technologies Involved
 
-* **Skills**:*
+* **Skills**:
     * Machine Learning
     * Statistics
     * Data Analysis
     * Data Visualization
     * Programming Language: *Python 3.11.10*
-* **Techniques**:*
+* **Techniques**:
     * Data cleaning and preprocessing
     * Exploratory data analysis
     * Feature engineering
