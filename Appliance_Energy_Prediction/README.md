@@ -1,38 +1,43 @@
 ![](https://c0.wallpaperflare.com/preview/61/600/874/energy-inspiration-ideas-planet-waters.jpg)
-# Appliance Energy Prediction:
-The Dataset (experimental) was created to study appliances consumption in a low energy building. Furthermore, the dataset was build with energy data points collected every 10 minutes and the humidity and temperature data were averaged for 10 minutes periods. The dataset is at 10 minutes for roughly 4.5 mounts. To conclude, it is important to say that this project is in the scope of Supervised Regression problems and the dataset can be found in the first link in the references.
 
-# Dictionary (Columns):
-  - date: Date(Year-Month-Day) and time(Hour:Minutes:Seconds) of the measurements.
-  - Appliances: Energy used (Wh).
-  - lights: Energy use in light fixtures (Wh).
-  - T1: Temperature in kitchen area (°C).
-  - RH_1: Humidity in kitchen area (%).
-  - T2: Temperature in living room area (°C).
-  - TH_2: Humidity in living room area (%).
-  - T3: Temperature in laundry area (°C).
-  - RH_3: Humidity in laundry area (%).
-  - T4: Temperature in office room (°C).
-  - RH_4: Humidity in office room (%). 
-  - T5: Temperature in bathroom (°C).
-  - RH_5: Humidity in bathroom (%).
-  - T6: Temperature outside the building, measured from the north side (°C).
-  - RH_6: Humidity outside the building, measured from the north side (%).
-  - T7: Temperature in ironing room (°C).
-  - RH_7: Humidity in ironing room (%).
-  - T8: Temperature in teenager room 2 (°C)
-  - RH_8: Humidity in teenager room 2 (%).
-  - T9: Temperature in parents room (°C).
-  - RH_9: Humidity in parents room (%).
-  - T_out: Temperature outside, measured from Chievres weather station (°C).
-  - Pressure: Measured from Chievres weather station (mm Hg).
-  - RH_out: Humidity outside, measured from Chievres weather station (%).
-  - Wind speed: Measured from Chievres weather station (m/s).
-  - Visibility: Measured from Chievres weather station (km).
-  - Tdewpoint: Measured from Chievres weather station (Â°C)
-  - rv1: Random variable 1 (nondimensional).
-  - rv2: Random variable 2 (nondimensional).
-  
+# Appliance Energy Consumption Prediction
+
+## Problem Summary
+
+The business problem that motivated this project was the need to predict the energy consumption of appliances in low-energy buildings. This prediction is crucial to optimize energy use, reduce costs, and contribute to environmental sustainability.
+
+## Project Objective
+
+The main objective of this project was to develop a machine learning model capable of predicting the energy consumption of appliances in a low-energy building. To achieve this goal, we explored and pre-processed the data, performed normality tests, and evaluated the performance of different predictive modeling algorithms.
+
+## Skills and Technologies Involved
+
+* Programming language: Python
+* Libraries: Pandas, NumPy, SciPy, Matplotlib, Plotly, Seaborn, Scikit-learn, XGBoost
+* Data analysis techniques: Data cleaning, exploratory analysis, feature engineering, feature selection, and predictive modeling.
+
+## Steps Involved
+
+1. Data collection and preparation: The data was loaded from a CSV file and transformed into a suitable format for analysis.
+2. Exploratory data analysis: Descriptive statistics and visualizations were used to understand the distributions, relationships, and outliers in the data.
+3. Feature engineering: A new variable was created to represent whether a day is a weekend or not, and random variables and columns with high correlation were removed.
+4. Predictive modeling: The data was divided into training and testing sets. Linear Regression, Ridge, Lasso, SVR, Random Forest and XGBoost models were trained and evaluated using different data scalers.
+5. Model evaluation: The RMSE and R² metrics were used to evaluate the performance of the models and select the best model.
+
+## Most Interesting Analysis
+
+* Normality tests indicated that no variable follows a normal distribution.
+* The variables T6 and T_out, which represent the outside temperature, showed high correlation between themselves.
+* All temperatures show a significant correlation with each other, with the variable T9 standing out with correlations above 0.9.
+* The two random variables are equal and show no correlation with the target variable, being excluded from the model.
+* The "lights" variable was excluded because it has more than 77% of the records with value 0.
+* The Random Forest model showed the best performance in all data scaling.
+
+## Next Steps
+
+* Increase data collection to improve the predictive model.
+* Deploy the predictive model in production to help optimize energy consumption.
+* Perform hypothesis testing to assess the statistical significance of other variables.
 
 # References:
 - https://www.kaggle.com/datasets/loveall/appliances-energy-prediction
@@ -43,3 +48,7 @@ The Dataset (experimental) was created to study appliances consumption in a low 
 - https://xgboost.readthedocs.io/en/stable/parameter.html
 - https://towardsdatascience.com/an-interactive-guide-to-hypothesis-testing-in-python-979f4d62d85
 - https://rhydhamgupta.medium.com/p-value-explained-clearly-regression-pdf-discrete-45c30b5dc813
+
+## Additional Information
+
+This project demonstrates the potential of data analysis and machine learning to optimize energy consumption in buildings. The results obtained can be used to create more efficient and sustainable energy use strategies.
