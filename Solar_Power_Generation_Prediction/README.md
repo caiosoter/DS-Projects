@@ -4,7 +4,7 @@
 
 ## Problem Summary
 
-The amount of energy consumed has increased dramatically in recent years. As a result, investment in renewable energy has become increasingly important due to concerns about the environment and global warming. This project aims to analyze and predict the generation of solar power plants using a dataset downloaded from Kaggle. If you would like to seek to uderstand more about the analysis and the results I encourage you to go through the [Notebook](https://github.com/caiosoter/DS-Projects/blob/main/Solar_Power_Generation_Prediction/Solar_Power_Prediction.ipynb).
+The amount of energy consumed has increased dramatically in recent years. As a result, investment in renewable energy has become increasingly important due to concerns about the environment and global warming. This project aims to analyze and predict the generation of solar power plants using a dataset downloaded from Kaggle. If you would like to seek to understand more about the analysis and the results I encourage you to go through the [Notebook](https://github.com/caiosoter/DS-Projects/blob/main/Solar_Power_Generation_Prediction/Solar_Power_Prediction.ipynb).
 
 ## Project Objectives
 

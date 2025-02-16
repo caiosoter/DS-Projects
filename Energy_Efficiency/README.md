@@ -3,7 +3,7 @@
 # Energy Efficiency Prediction Project
 
 ## Problem Summary
-The project addresses the challenge of energy efficiency in buildings, focusing on the relationship between physical parameters of buildings and the energy required to heat and cool them. With the increasing demand for sustainable energy solutions, understanding and predicting energy consumption is crucial for optimizing building designs and reducing energy costs. If you would like to seek to uderstand more about the analysis and the results I encourage you to go through the [Notebook](https://github.com/caiosoter/DS-Projects/blob/main/Energy_Efficiency/efficiency_prediction.ipynb).
+The project addresses the challenge of energy efficiency in buildings, focusing on the relationship between physical parameters of buildings and the energy required to heat and cool them. With the increasing demand for sustainable energy solutions, understanding and predicting energy consumption is crucial for optimizing building designs and reducing energy costs. If you would like to seek to understand more about the analysis and the results I encourage you to go through the [Notebook](https://github.com/caiosoter/DS-Projects/blob/main/Energy_Efficiency/efficiency_prediction.ipynb).
 
 ## Project Objective
 The primary objective of this project is to build machine learning models that can predict the heating and cooling loads of buildings based on their physical characteristics. By doing so, the project aims to contribute to energy efficiency efforts, helping to design buildings that require less energy for heating and cooling, thereby reducing overall energy consumption.

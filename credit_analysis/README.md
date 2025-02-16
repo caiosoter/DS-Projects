@@ -4,7 +4,7 @@
 
 ## Problem Summary
 
-This project addresses the issue of delinquency in financial institutions, focusing on the creation of a predictive model to assess the credit risk of recurring customers in new credit applications. The analysis is based on customer and transaction data, aiming to optimize decision-making in credit granting. If you would like to seek to uderstand more about the analysis and the results I encourage you to go through the [Notebook](https://github.com/caiosoter/DS-Projects/blob/main/credit_analysis/analise_inadimplencia.ipynb).
+This project addresses the issue of delinquency in financial institutions, focusing on the creation of a predictive model to assess the credit risk of recurring customers in new credit applications. The analysis is based on customer and transaction data, aiming to optimize decision-making in credit granting. If you would like to seek to understand more about the analysis and the results I encourage you to go through the [Notebook](https://github.com/caiosoter/DS-Projects/blob/main/credit_analysis/analise_inadimplencia.ipynb).
 
 ## Project Objective
 

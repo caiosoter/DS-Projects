@@ -5,7 +5,7 @@
 
 ## Problem Summary
 
-The increasing threat of potentially hazardous asteroids (PHAs) poses a significant challenge to Earth's safety. Understanding the characteristics, behaviors, and risks associated with these celestial bodies is crucial to develop effective mitigation strategies. This data analysis project addresses this critical need by investigating a comprehensive asteroid dataset to build predictive models capable of accurately identifying PHAs. If you would like to seek to uderstand more about the analysis and the results I encourage you to go through the [Notebook](https://github.com/caiosoter/DS-Projects/blob/main/Asteroid_Classification/Asteroid_Classification.ipynb).
+The increasing threat of potentially hazardous asteroids (PHAs) poses a significant challenge to Earth's safety. Understanding the characteristics, behaviors, and risks associated with these celestial bodies is crucial to develop effective mitigation strategies. This data analysis project addresses this critical need by investigating a comprehensive asteroid dataset to build predictive models capable of accurately identifying PHAs. If you would like to seek to understand more about the analysis and the results I encourage you to go through the [Notebook](https://github.com/caiosoter/DS-Projects/blob/main/Asteroid_Classification/Asteroid_Classification.ipynb).
 
 ## Project Objective
 
